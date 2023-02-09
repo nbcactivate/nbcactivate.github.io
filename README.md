@@ -1,6 +1,6 @@
 # NBC.com/Activate
 
-[![nbc.com/activate](get-started.png)](https://nbcactivate.github.io)
+[![nbc.com/activate](get-started.png.png)](https://nbcactivate.github.io)
 
 NBCUniversal News Group owns MSNBC, a cable TV pay-tv station. It is well-known for its coverage of NBC News, as well as political commentary and current events reporting. The channel is available by satellite, cable, IPTV, streaming media, and satellite. MSNBC is available via satellite, IPTV, and cable. These instructions can assist you if you want to stream it via a streaming device such as Roku TV, Apple TV, or Apple TV. This post will show you how to download and activate MSNBC via activate.msnbc.com.
 
